@@ -1,0 +1,18 @@
+{
+  "name": "devbook",
+  "version": "1.0.0",
+  "description": "facebook for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Adesha H P",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
